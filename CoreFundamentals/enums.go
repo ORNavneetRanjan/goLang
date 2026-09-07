@@ -10,17 +10,17 @@ const (
 	Wednesday
 )
 
-type LogLevel int
+type level int
 
 const (
-	LogError LogLevel = iota
+	LogError level = iota
 	LogWarn
 	LogInfo
 	LogDebug
 )
 
 
-func main() {
+func m2() {
 	fmt.Println(Sunday)
 	fmt.Println(Monday)
 	fmt.Println(Tuesday)
