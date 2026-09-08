@@ -5,7 +5,7 @@ import (
 	"math/rand"
 )
 
-func main() {
+func m2() {
 
 	tmp := 25
 
