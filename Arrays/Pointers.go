@@ -16,7 +16,7 @@ func byAdd(val *int) {
 	*val *= 100
 }
 
-func main() {
+func m4()() {
 
 	age := 10
 	fmt.Printf("age: %d\n", &age)
