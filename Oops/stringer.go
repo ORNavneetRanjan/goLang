@@ -49,7 +49,7 @@ func (t Teacher) String() string {
 	 t.ID, t.Name, t.Subject, t.Class)
 }
 
-func main() {
+func main3() {
 	t1 := Teacher{
 		ID:   1,
 		Name: "Navneet",
