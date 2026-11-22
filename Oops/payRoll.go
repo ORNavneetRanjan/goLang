@@ -75,7 +75,7 @@ func ProcessPayroll(employee []Payable){
 	fmt.Println("-----------------------------------------------")
 }
 
-func main(){
+func main5(){
 
 	fmt.Println("Welcome to the Payroll Processor!")
 
